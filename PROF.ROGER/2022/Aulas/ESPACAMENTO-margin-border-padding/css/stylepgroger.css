@@ -1,0 +1,31 @@
+*{
+ font-size: 26px;
+ font-family: Courier;
+ color: black;
+
+}
+
+body {
+    margin: 0;
+    color: #333232;
+}
+
+.topo {
+    margin: 0;
+    border: 0;
+    background-color: chartreuse;
+    padding: 25px;
+    text-align: center;
+}
+
+.cabecahlo{
+    padding-top: 40px;
+}
+
+.container {
+    margin: 0 80px 0 80px;
+}
+
+img {
+    width: 280px;
+}

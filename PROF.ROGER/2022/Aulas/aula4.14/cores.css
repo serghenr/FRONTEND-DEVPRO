@@ -1,0 +1,44 @@
+* {
+    margin: 0
+    
+}
+
+.conteiner {
+    padding: 60px;
+    text-align: center;
+    background-color: #FFEEDB;
+}
+
+.header1 {
+    font-size: 3rem;
+}
+
+.header2 {
+    font-size: 2rem;
+}
+
+.cor-nome {
+     color: blue;
+}
+
+.cor-rgb {
+    /*
+    Min...................Max
+    0 (zero)..............256
+    */
+    color:rgb(0, 136, 193);
+}
+
+.cor-cerquilha {
+    /*
+              representação das bases
+    base decimal(base10): 0,1,2,3,4,5,6,7,8,9
+    hexadecima(base16):   0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F 
+      
+ex.:        base 10     ==      base16
+                10                  A
+                11                  B
+                15                  F
+    */
+    color: #0088c1;
+}

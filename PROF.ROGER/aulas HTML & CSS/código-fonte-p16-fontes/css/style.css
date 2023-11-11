@@ -1,0 +1,38 @@
+
+* {
+ font-size: 26px;
+ line-height: 42px;
+}
+
+body {
+  color: #333232;
+  margin: 0;
+  font-family: 'Open-Sans-Condensed';
+}
+
+h1, h2, h4 {
+    font-feature-settings: 'liga';
+    -webkit-font-feature-settings: 'liga';
+    -moz-font-feature-settings: 'liga';
+    -o-font-feature-settings: 'liga';
+}
+
+.topo {
+  background-color: chartreuse;
+  padding: 25px;
+  text-align: center;
+}
+
+.cabecalho {
+  padding-top: 40px;
+  font-family: 'Supermercado One', cursive;
+}
+
+.container {
+  margin: 0 80px 0 80px;
+}
+
+img {
+    width: 280px;
+}
+
