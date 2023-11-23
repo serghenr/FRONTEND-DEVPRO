@@ -20,7 +20,7 @@
        /*background-color: chartreuse;*/
        background-image: url(../img/cool-background.png);
        background-position: center;
-       background-repeat: cover;
+       background-size: cover;
        margin: 0;
        border: 0;
        padding: 40px;
