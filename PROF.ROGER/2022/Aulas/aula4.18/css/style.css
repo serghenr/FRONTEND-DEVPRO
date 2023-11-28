@@ -3,7 +3,7 @@ body {
     color: #333232;
 }
 
-table{
+table, td, tr{
     border: 2px solid blue;
 }
 
