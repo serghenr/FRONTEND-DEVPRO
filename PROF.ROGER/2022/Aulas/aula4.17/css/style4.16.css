@@ -25,7 +25,8 @@
        margin: 0;
        border: 0;
        padding: 40px;
-       text-align: center;    
+       text-align: center;
+       position: relative;
    }
 
    .topo h2 {
