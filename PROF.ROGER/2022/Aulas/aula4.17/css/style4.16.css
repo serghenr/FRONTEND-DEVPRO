@@ -60,3 +60,23 @@
     -webkit-filter: contrast(90%) brightness(110%) saturate(150%) hue-rotate(-10deg);
     filter: contrast(90%) brightness(110%) saturate(150%) hue-rotate(-10deg);
   }
+  .custom-shape-divider-bottom-1701179238 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1701179238 svg {
+    position: relative;
+    display: block;
+    width: calc(139% + 1.3px);
+    height: 156px;
+}
+
+.custom-shape-divider-bottom-1701179238 .shape-fill {
+    fill: #FFFFFF;
+}
