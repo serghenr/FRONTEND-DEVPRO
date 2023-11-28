@@ -3,30 +3,29 @@ body {
     color: #333232;
 }
 
-table, td, tr{
-    border: 2px solid blue;
+.conteiner{
+    padding: 50px;
 }
 
-.container {
-
+table{
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 5px 5px 20px black;
 }
 
-.container table {
-
+td, th{
+    border: 1px solid #dddddd;
+    padding: 12px;
 }
 
-.container td, .container th {
-
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
 }
 
-.container th {
-
+tr:nth-child(even){
+    background-color: rgb(233, 233, 233);
 }
 
-.container tr:nth-child(even){
-
-}
-
-.container tr:last-child {
-
-}
