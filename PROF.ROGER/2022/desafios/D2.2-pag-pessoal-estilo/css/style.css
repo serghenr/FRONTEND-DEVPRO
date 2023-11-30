@@ -1,10 +1,31 @@
 body {
   font-family: "Montserrat", sans-serif;
   font-size: 22px;
-  font-weight: 400;
+  /*font-weight: 400;*/
   color: #293651;
+  margin: 0;
 }
 
-container {
-  
+.container {
+  padding: 50px 100px 0px 100px;
+}
+
+.cor1-font {
+  color: hsl(172, 50%, 50%);
+}
+
+.destaque-font {
+  font-weight: bolder;
+}
+
+.sem-destaque {
+  font-weight: lighter;
+}
+
+cor2-font {
+  color:#293651;
+}
+
+.paragrafo {
+  text-align: 0;
 }
