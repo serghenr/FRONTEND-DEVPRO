@@ -8,6 +8,10 @@ h1 {
 h2 {
     font-size: 26px;
     color: #00a78e;
-    font-family: sans-serif;
     text-align: center;
+}
+
+
+* {
+    font-family: sans-serif;
 }
