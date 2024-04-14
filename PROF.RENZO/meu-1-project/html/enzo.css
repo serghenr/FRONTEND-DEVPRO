@@ -5,6 +5,7 @@
 
 .center {
     text-align: center;
+    margin-bottom: -4px;
 }
 
 .parte1 {
@@ -16,6 +17,11 @@
     background-color: #00a78e;
     color: #fff;
     padding: 80px 80px;
+}
+
+.parte3 {
+    margin-left: 80px;
+    margin-top: 80px;
 }
 
 .title {
@@ -59,7 +65,7 @@
 }
 
 .text {
-    background-color:: center;
+    background-color: center;
     font-family: sans-serif;
     font-size: 20px;
     letter-spacing: 1.2pt;
@@ -79,3 +85,41 @@
     padding-bottom: 20px;
 }
 
+.barra-progresso {
+    height: 40px;
+    width: 400px;
+    accent-color: #00a78e;
+}
+
+.parte3 {
+    color: #436351;
+    margin-bottom: 40px;
+}
+
+.rodape {
+    background-color: #293651;
+    color: #828a9c;
+    font-size: 16px;
+    padding: 80px 80px;
+    font-family: sans-serif;
+    letter-spacing: 1.2px;
+    line-height: 25px;
+}
+
+.rodape a:link {
+    color: #828a9c;
+    text-decoration: none;
+}
+
+.rodape a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.rodape a:visited {
+    color: #828a9c; 
+}
+
+.rodape .nome {
+    margin-bottom: 30px;
+}
